@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-fca-register",
-  "version": "0.1.1",
-  "description": "FCA Financial Services Register MCP — the UK Financial Conduct Authority's",
+  "version": "0.1.2",
+  "description": "FCA Financial Services Register MCP — the UK Financial Conduct Authority's public register of every FCA-regulated firm and individual (register.fca.org.uk): firm search, firm details by FRN, appointed representatives, and single-individual lookup by IRN.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9c3e5f5998bfd9f6275d32a2cc8e05af73fcdb412ea08b963797a979b8cd7b2e",
-    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
+    "sourceHash": "v1-aa222206067a595891ad15ade788770a855ac0beffc81050672dc42210a05f52",
+    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
   }
 }
